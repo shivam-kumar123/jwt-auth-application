@@ -1,0 +1,16 @@
+# Virtual environments
+my_venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Test and tool caches
+.pytest_cache/
+.ruff_cache/
+
+# Local configuration and secrets
+.env
+
+# macOS Finder metadata
+.DS_Store
