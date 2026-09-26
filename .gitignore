@@ -14,3 +14,6 @@ __pycache__/
 
 # macOS Finder metadata
 .DS_Store
+
+# Local SQLite databases
+*.db
